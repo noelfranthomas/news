@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+}
+
+.search-container {
+    padding: 140px;
+    background-color: #dae3e2;
+}
+
+.search-header {
+    display: inline-block;
+    font-size: 40px;
+    color: #d4af37;
+    margin-bottom: 40px;
+}
+
+.featured-container {
+    padding: 50px;
+}
+
+.featured-header {
+    font-size: 50px;
+    font-weight: lighter;
+    color: #d4af37;
+}
